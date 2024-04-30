@@ -4,7 +4,7 @@ from tkinter import *
 obj = Tk()
 obj.geometry('400x400')
 obj.title('operations')
-obj.configure(bg='lightblue')  # 'configure' instead of 'Configure'
+obj.configure(bg='lightblue')  
 
 # preforming operations
 
